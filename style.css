@@ -5,6 +5,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center; 
+    margin: 0 200px;
 }
 .nav-title{
     font-size: 40px;
@@ -35,4 +36,20 @@ nav a {
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+}
+/************header style*************/
+.header{
+    background-color: rgb(243, 246, 226);
+
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+
+}
+.profile-pic{
+    border-radius: 80%;
+    border: 5px solid rgb(255, 208, 0);
+    box-shadow: 10px 5px 5px 5px rgb(231, 130, 130);
+
 }
