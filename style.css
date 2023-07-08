@@ -1,4 +1,4 @@
-body{
+body{ 
    
 }
 nav{
@@ -40,6 +40,7 @@ nav a {
 /************header style*************/
 .header{
     background-color: rgb(243, 246, 226);
+    background-image: url;
 
 }
 .banner{
